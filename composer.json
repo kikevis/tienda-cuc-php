@@ -1,0 +1,20 @@
+{
+    "name": "kike/tienda",
+    "description": "creacion de una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Geovanny Villa",
+            "email": "villasanchezg22@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "kike\\":"src/"
+        }
+    }
+}

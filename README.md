@@ -1,3 +1,4 @@
-# tienda-kike
+# tienda-online
 
-Kike es mi apodo**
+- Geovanny Enrique Villa Sánchez
+- PHP

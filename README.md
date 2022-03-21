@@ -1,4 +1,6 @@
 # tienda-online
 
 - Geovanny Enrique Villa Sánchez
-- PHP
+- Acceso al panel: 
+    Usuario: kike
+    Contraseña: kike
